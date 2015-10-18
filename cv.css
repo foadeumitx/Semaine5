@@ -1,0 +1,92 @@
+h1{
+    color:#708090;
+    font-family:Verdana;
+    text-align:center;
+}
+h2{
+    color:#708090;
+    font-family:Verdana;
+    text-align:center;
+}
+background{
+    color:#F5FFFA;
+}
+h3 {
+    color:#696969;
+    font-family:Arial;
+    font-size:14px;
+    margin-left:10px;
+}
+footer{
+    color:#696969;
+    font-family:Arial;
+    font-size:11px;
+    text-align:center;
+}
+ul{
+    color:#808080;
+    font-weight:bold;
+    font-family:Arial;
+    font-size:12px;
+}
+li{
+    color:#808080;
+    font-size:11px;
+    font-family:Arial;
+    list-style-type:disc;
+    margin-left:60px;
+}
+
+.informatique{
+    color:#808080;
+    font-size:11px;
+    font-family:Arial;
+    list-style-type:disc;
+    margin-left:60px;
+}
+
+.langue{
+    color:#808080;
+    font-size:11px;
+    font-family:Arial;
+    list-style-type:disc;
+    margin-left:60px;
+}
+
+.interet{
+    color:#808080;
+    font-size:11px;
+    font-family:Arial;
+    list-style-type:disc;
+    margin-left:60px;
+}
+
+p{
+    color:#808080;
+    font-size:11px;
+    font-family:Arial;
+    list-style-type:disc;
+    margin-left:60px;
+}
+
+main{
+    background-image: url("greyzz.png");
+}
+footer{
+    background-image: url("concreteseamless.png");
+}
+header{
+    background-image: url("brushed.png");
+}
+div{
+    width:100%;
+    max-width:960px;
+    margin:15px;
+    padding:10px;
+}    
+footer div a{
+    margin-left:30px;
+}
+div iframe{
+    width:50%;
+}
