@@ -3,11 +3,6 @@ h1{
     font-family:Verdana;
     text-align:center;
 }
-h2{
-    color:#708090;
-    font-family:Verdana;
-    text-align:center;
-}
 background{
     color:#F5FFFA;
 }
@@ -68,7 +63,6 @@ p{
     list-style-type:disc;
     margin-left:60px;
 }
-
 main{
     background-image: url("greyzz.png");
 }
@@ -78,15 +72,24 @@ footer{
 header{
     background-image: url("brushed.png");
 }
-div{
+footer div a{
+    margin-left:30px;
+}
+
+div iframe{
+    width:50%;
+}
+
+#conteneur{
     width:100%;
     max-width:960px;
     margin:15px;
     padding:10px;
-}    
-footer div a{
-    margin-left:30px;
 }
-div iframe{
-    width:50%;
+
+header div p{
+    color:#696969;
+    font-family:Arial;
+    font-size:25px;
+    margin-left:10px;
 }
