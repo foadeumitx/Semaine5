@@ -1,11 +1,3 @@
-h1{
-    color:#708090;
-    font-family:Verdana;
-    text-align:center;
-}
-background{
-    color:#F5FFFA;
-}
 h3 {
     color:#696969;
     font-family:Arial;
@@ -80,7 +72,7 @@ div iframe{
     width:50%;
 }
 
-#conteneur{
+.conteneur{
     width:100%;
     max-width:960px;
     margin:15px;
@@ -89,7 +81,28 @@ div iframe{
 
 header div p{
     color:#696969;
-    font-family:Arial;
+    font-family:Verdana;
     font-size:25px;
-    margin-left:10px;
+    text-align:center;
+    width:50%;
+}
+#colonne1 {
+    float:left;
+    padding: 10px;
+    background: lightblue;
+    font-size:11px;
+ 
+}
+#colonne3 {
+    padding: 10px;
+    background: burlywood;
+    text-align:center;
+    font-size:11px;
+    float:none;
+}
+#colonne2 {
+    float:right;
+    padding: 10px;
+    background: khaki;
+    font-size:11px;
 }
